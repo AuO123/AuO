@@ -1,10 +1,7 @@
 # xxx的自我介绍
 
-![自我介绍图片](https://via.placeholder.com/200)
 
-![01 环境搭建截图](https://via.placeholder.com/800)
-![环境验证截图](D:\1\dev_skills\PythonProject\NLP\2026-03-25%20164933.png)
-
+hi![截图](images/2026-03-25_164933.png)
 大家好，我是**xxx**，我的身份是*xxx*。以下是我的自我介绍：
 
 ---
